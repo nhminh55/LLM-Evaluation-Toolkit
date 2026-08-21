@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "question": "What is Python?",
+    "expected_answer": "Python is a very interesting programming language."
+  },
+  {
+    "id": 2,
+    "question": "What is GitHub?"
+    "expected_answer": "GitHub is a platform for hosting and collaborating on code."
+  }
+]
