@@ -2,7 +2,7 @@
   {
     "id": 1,
     "question": "What is Python?",
-    "expected_answer": "Python is a very interesting programming language."
+    "expected_answer": "Python is a programming language."
   },
   {
     "id": 2,
